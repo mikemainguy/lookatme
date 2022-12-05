@@ -1,0 +1,14 @@
+{
+  "name": "aframe-lookatme",
+  "version": "1.0.0",
+  "description": "Aframe Component to make objects face entity with id #camera in scene",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aframe": "^1.3.0"},
+  "keywords": ["3d","three.js","oculus","aframe", "components", "VR", "webxr", "webvr"],
+  "author": "mike.mainguy@gmail.com",
+  "license": "MIT"
+}
