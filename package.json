@@ -1,6 +1,6 @@
 {
   "name": "aframe-lookatme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Aframe Component to make objects face entity with id #camera in scene",
   "main": "lookatme.js",
   "scripts": {
